@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-**As a ** [Role]
+**As a** [Role]
 **I need** [function]
 **So that** [benefit]
 
-###Details and Assumptions
+### Details and Assumptions
 * [document what you know]
 
 ### Acceptance Criteria
@@ -19,5 +19,5 @@ assignees: ''
 '''gherkin
 Given [some context]
 When [certain action is taken]
-Then [the outcome of action is]
+Then [the outcome of action is
 '''
